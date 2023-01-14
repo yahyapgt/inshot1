@@ -1,0 +1,250 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    border: 0;
+}
+.header{
+    width: 100%;
+    height: 75px;
+    position: fixed;
+    background-color: white;
+    z-index: 1;
+
+}
+.imgclass{
+    width: 114px;
+    height: 30px;
+    margin-left: 83px;
+    margin-top: 24px;
+}
+.img1class{
+    margin-left: 1125px;
+}
+.img2class{
+    margin-left: 20px;
+}
+.div1class{
+    height: 646px;
+    overflow: hidden;
+    background-color: red;
+}
+.img3class{
+    width: 2240px;
+    height: 946px;
+    margin-left: -505px;
+}
+.img4class{
+    position: absolute;
+    top: 173px;
+    margin-left: 82px;
+    width: 72px;
+    height: 72px;
+}
+.img5class{
+    position: absolute;
+    top: 84px;
+    margin-left: 975px;
+    width: 424px;
+    height: 586px;
+}
+.h1class{
+    position: absolute;
+    top: 260px;
+    margin-left: 82px;
+    font-size: 37px;
+    line-height: 43px;
+    text-decoration: none solid rgb(97,97,97);
+    font-family: Helvetica, "Helvetica Neue", Arial;
+    font-weight: lighter;
+}
+.div2class{
+   
+    width: 172px;
+    height: 195px;
+    position: absolute;
+    top: 400px;
+    margin-left: 82px;
+
+}
+.img6class{ 
+    width: 172px;
+    height: 51px;
+    cursor: pointer;
+}
+.img7class{
+    margin-top: 8px;
+    width: 172px;
+    height: 51px;
+    cursor: pointer;
+}
+.img8class{
+    margin-top: 8px;
+    width: 172px;
+    height: 51px;
+    cursor: pointer;
+}
+.header1{
+    background: url(header1\ background.png);
+    margin-top: -33px;
+    background-color: rgb(39, 39, 39);
+    width: 100%;
+    height: 640px;
+}
+.h12class{
+    margin-left: 82px;
+    padding-top: 70px;
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+}
+.header1 h4{
+    margin-left: 82px;
+    font-size: 22px;
+    color: white;
+    line-height: 33px;
+    font-weight: lighter;
+}
+.plusclass{
+    margin-left: 550px;
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 840px;
+}
+.trimclass{
+    margin-left: 680px;
+    position: absolute;
+    top: 840px;
+    height: 58px;
+    width: 447px;
+}
+.p12class{
+    font-size: 22px;
+    margin-left: 1157px;
+    position: absolute;
+    top: 840px;
+}
+.cutclass{
+    margin-left: 730px;
+    position: absolute;
+    top: 970px;
+    height: 58px;
+    width: 447px;
+}
+.p13class{
+    font-size: 22px;
+    margin-left: 1217px;
+    position: absolute;
+    top: 970px;
+}
+.splitclass{
+    margin-left: 790px;
+    position: absolute;
+    top: 1100px;
+    height: 58px;
+    width: 447px; 
+}
+.p14class{
+    font-size: 22px;
+    margin-left: 1270px;
+    position: absolute;
+    top: 1095px;
+}
+.header2{
+    margin-top: -33px;
+    width: 100%;
+    height: 585px;
+    background-image: url(header2\ background.jpg);
+}
+.h13class{
+    margin-left: 82px;
+    padding-top: 40px;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Helvetica, "Helvetica Neue", Arial;
+}
+.img9class{
+    width: 1200px;
+    margin-left: 100px;
+}
+.header3{
+    background-color: rgb(39, 39, 39);
+    width: 100%;
+    height: 655px;
+    margin-top: -58px;
+}
+.head3class{
+    margin-left: 82px;
+    position: absolute;
+    top: 1900px;
+}
+.h20class{
+    margin-left: 950px;
+    font-size: 49px;
+    font-weight: 700;
+    color: white;
+    position: absolute;
+    top: 1900px;
+    font-family: Helvetica, "Helvetica Neue", Arial;
+}
+.p20class{
+    margin-left: 950px;
+    position: absolute;
+    top: 1990px;
+    font-size: 22px;
+    color: white;
+    line-height: 33px;
+}
+.musicclass{
+    margin-left: 950px;
+    position: absolute;
+    top: 2185px;
+}
+.header4{
+    background-color: red;
+    width: 100%;
+    height: 775px;
+    background: url(header5background.jpg);
+}
+.h21class{
+font-size: 48px;
+font-weight: 700px;
+font-family: Helvetica, "Helvetica Neue", Arial;
+margin-left: 82px;
+position: absolute;
+top: 2530px;
+}
+.p30class{
+    margin-left: 82px;
+    font-size: 22px;
+    font-family: Arial,"Helvetica Neue",Helvetica;
+    position: absolute;
+    top: 2630px;
+}
+.footer{
+    height: 62px;
+    background-color: black;
+    margin-top: -22px;
+}
+.p31class{
+    margin-left: 120px;
+    text-decoration: none solid rgb(97, 97, 97);
+    color: rgb(102, 133, 149);
+    position: relative;
+    top: 15px;
+}
+.p32class{
+    text-align: center;
+    color: rgb(102, 133, 149);
+    position: relative;
+    top:-15px;
+}
+.p33class{
+    color: rgb(102, 133, 149);
+    margin-left: 980px;
+    position: relative;
+    top: -52px;
+}
+
